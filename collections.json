@@ -1,0 +1,82 @@
+[
+  {
+    "CollName": "Mazda Autozam",
+    "CollDescription": "HRY51",
+    "CollNumber": "001",
+    "CollSeries": "HW Dreamn Garage",
+    "SeriesNum": "3/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Mazda Autozam v2",
+    "CollDescription": "HTC86",
+    "CollNumber": "001",
+    "CollSeries": "HW Dreamn Garage",
+    "SeriesNum": "3/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Batmobile",
+    "CollDescription": "HTb21",
+    "CollNumber": "002",
+    "CollSeries": "Batman",
+    "SeriesNum": "1/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Batmobile v2",
+    "CollDescription": "HTC83",
+    "CollNumber": "002",
+    "CollSeries": "Batman",
+    "SeriesNum": "1/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Monster High Ghoul Mobile",
+    "CollDescription": "HRY45",
+    "CollNumber": "003",
+    "CollSeries": "HW Screen Time",
+    "SeriesNum": "1/10",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Monster High Ghoul Mobile v2",
+    "CollDescription": "HTC80",
+    "CollNumber": "003",
+    "CollSeries": "HW Screen Time",
+    "SeriesNum": "1/10",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "U.S.S Enterprise NCC-1701",
+    "CollDescription": "HTB32",
+    "CollNumber": "004",
+    "CollSeries": "HW Screen Time",
+    "SeriesNum": "2/10",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Hot Wheels High",
+    "CollDescription": "HTB42",
+    "CollNumber": "005",
+    "CollSeries": "HW Fast Transit",
+    "SeriesNum": "1/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Hot Wheels High v2",
+    "CollDescription": "HTB52",
+    "CollNumber": "005",
+    "CollSeries": "HW Fast Transit",
+    "SeriesNum": "1/5",
+    "Rarity": "Common"
+  },
+  {
+    "CollName": "Custom Otto",
+    "CollDescription": "HTB49",
+    "CollNumber": "006",
+    "CollSeries": "HW Dreamn Garage",
+    "SeriesNum": "1/5",
+    "Rarity": "Common"
+  }
+]

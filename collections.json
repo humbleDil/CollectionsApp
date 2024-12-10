@@ -7,7 +7,7 @@
       "CollSeries": "HW Dreamn Garage",
       "SeriesNum": "3/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/mazda_autozam.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW1.jpg",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Mazda_Autozam"
     },
     {
@@ -17,7 +17,7 @@
       "CollSeries": "HW Dreamn Garage",
       "SeriesNum": "3/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/mazda_autozam_v2.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW2.jpg",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Mazda_Autozam_v2"
     },
     {
@@ -27,7 +27,8 @@
       "CollSeries": "Batman",
       "SeriesNum": "1/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/batmobile.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW3.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Batmobile"
     },
     {
@@ -37,7 +38,8 @@
       "CollSeries": "Batman",
       "SeriesNum": "1/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/batmobile_v2.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW4.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Batmobile_v2"
     },
     {
@@ -47,7 +49,8 @@
       "CollSeries": "HW Screen Time",
       "SeriesNum": "1/10",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/monster_high_ghoul_mobile.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW5.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Monster_High_Ghoul_Mobile"
     },
     {
@@ -57,7 +60,8 @@
       "CollSeries": "HW Screen Time",
       "SeriesNum": "1/10",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/monster_high_ghoul_mobile_v2.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW6.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Monster_High_Ghoul_Mobile_v2"
     },
     {
@@ -67,7 +71,8 @@
       "CollSeries": "HW Screen Time",
       "SeriesNum": "2/10",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/uss_enterprise.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW7.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/U.S.S._Enterprise_NCC-1701"
     },
     {
@@ -77,7 +82,8 @@
       "CollSeries": "HW Fast Transit",
       "SeriesNum": "1/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/hot_wheels_high.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW8.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Hot_Wheels_High"
     },
     {
@@ -87,7 +93,8 @@
       "CollSeries": "HW Fast Transit",
       "SeriesNum": "1/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/hot_wheels_high_v2.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW9.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Hot_Wheels_High_v2"
     },
     {
@@ -97,7 +104,8 @@
       "CollSeries": "HW Dreamn Garage",
       "SeriesNum": "1/5",
       "Rarity": "Common",
-      "CollImage": "https://path/to/your/image/custom_otto.jpg",
+      "CollImage": "https://raw.githubusercontent.com/humbleDil/CollectionsApp/main/HW10.jpg
+",
       "CollWebsite": "https://www.hotwheels.fandom.com/wiki/Custom_Otto"
     }
   ],
